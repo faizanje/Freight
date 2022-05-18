@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+    </style>
+
+
+
+    <style name="MyButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">@dimen/corner_radius</item>
+    </style>
+</resources>
